@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          我的第一个react项目
         </a>
       </header>
     </div>
